@@ -5,16 +5,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        }
-        nav a {
-            color: #fff;
-            text-decoration: none;
-            padding: 0 1em;
-        }
-        main {
-            padding: 2em;
-        }
-    </style>
 </head>
 <body>
     <header>
