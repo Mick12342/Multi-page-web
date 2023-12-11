@@ -5,16 +5,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-        }
-        header {
-            background-color: #3498db;
-            color: #fff;
-            padding: 1em;
-            text-align: center;
         }
         nav {
             background-color: #2c3e50;
