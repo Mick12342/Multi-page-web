@@ -17,7 +17,7 @@
     </nav>
     <main>
         <p>
-**Louis Vuitton**, the iconic French fashion house, has left an indelible mark on the world of luxury and style. Founded in 1854 by Louis Vuitton himself, the brand initially gained recognition for its exquisite trunks, catering to the elite travelers of the time. These trunks were not just luggage; they were symbols of sophistication and craftsmanship.
+`Louis Vuitton, the iconic French fashion house, has left an indelible mark on the world of luxury and style. Founded in 1854 by Louis Vuitton himself, the brand initially gained recognition for its exquisite trunks, catering to the elite travelers of the time. These trunks were not just luggage; they were symbols of sophistication and craftsmanship.
 
 --One of Louis Vuitton's most enduring contributions-- to fashion is the signature monogram canvas, featuring the interlocking LV initials and quatrefoils. This distinctive pattern has become synonymous with luxury and is instantly recognizable worldwide. The brand has successfully evolved over the years, expanding its product range to include leather goods, ready-to-wear, shoes, accessories, and even watches and jewelry.
 
