@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Multi-Page Website</h1>
+        <h1>Home</h1>
     </header>
     <nav>
         <a href="page1.html">Page 1</a>
